@@ -1,0 +1,4 @@
+step 1:- cd prasunet_CS_02
+step 2:- pip install pillow termcolor numpy 
+step 3:- chmod +x image_encryption.py 
+step 4:- python3 image_encryption.py 
